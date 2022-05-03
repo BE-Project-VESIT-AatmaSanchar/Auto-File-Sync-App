@@ -27,7 +27,7 @@ process.
 ![test](https://github.com/BE-Project-VESIT-AatmaSanchar/Auto-File-Sync-App/tree/master/screenshots/image20.png)
 
 Along with the file, the current location coordinates of the user are also sent which is then used to display a
-tracking history on a web-based map UI for easy analysis Along with various filters for ease of use: (http://file.aatmanirbhar-sanchar.live/)
+tracking history on a [web-based map UI](http://file.aatmanirbhar-sanchar.live/) for easy analysis Along with various filters for ease of use
 
 Code for the Map Based Tracking system is available [here](https://github.com/BE-Project-VESIT-AatmaSanchar/Map-Tracking-for-Auto-Sync-App)
 
