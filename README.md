@@ -21,10 +21,10 @@ process.
     He/she then selects another directory where he wants these files to be moved to once uploaded to the server. 
     He then presses the start syncing button to activate the background process
 
-![test](https://github.com/BE-Project-VESIT-AatmaSanchar/Auto-File-Sync-App/tree/master/screenshots/image7.png) 
-![test](https://github.com/BE-Project-VESIT-AatmaSanchar/Auto-File-Sync-App/tree/master/screenshots/image23.png)
-![test](https://github.com/BE-Project-VESIT-AatmaSanchar/Auto-File-Sync-App/tree/master/screenshots/image22.png)
-![test](https://github.com/BE-Project-VESIT-AatmaSanchar/Auto-File-Sync-App/tree/master/screenshots/image20.png)
+![test](https://github.com/BE-Project-VESIT-AatmaSanchar/Auto-File-Sync-App/blob/master/screenshots/image7.png) 
+![test](https://github.com/BE-Project-VESIT-AatmaSanchar/Auto-File-Sync-App/blob/master/screenshots/image23.png)
+![test](https://github.com/BE-Project-VESIT-AatmaSanchar/Auto-File-Sync-App/blob/master/screenshots/image22.png)
+![test](https://github.com/BE-Project-VESIT-AatmaSanchar/Auto-File-Sync-App/blob/master/screenshots/image20.png)
 
 Along with the file, the current location coordinates of the user are also sent which is then used to display a
 tracking history on a [web-based map UI](http://file.aatmanirbhar-sanchar.live/) for easy analysis Along with various filters for ease of use
