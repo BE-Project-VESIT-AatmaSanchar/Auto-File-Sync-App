@@ -10,7 +10,7 @@ This Project is basically a Application of our Project [Aatmanirbhar Sanchar](ht
 
 This part of Repository contains the Mobile Application code of the application.
 
-Mobile Application code of the same can be found [here](https://github.com/BE-Project-VESIT-AatmaSanchar/Auto-File-Sync-App-Server)
+Server Side code of the same can be found [here](https://github.com/BE-Project-VESIT-AatmaSanchar/Auto-File-Sync-App-Server)
 
 Now every time a new file is stored in that specific directory it triggers the application and the file is
 automatically uploaded to the remote servers and the local stored file is moved to the second directory. This transfer of
