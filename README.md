@@ -1,7 +1,7 @@
 
 # Aatmanirbhar Samakraman
 
-[![IMAGE ALT TEXT HERE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=lRjCKhczHtY)
+[![IMAGE ALT TEXT HERE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/CyNPfndji-U?t=290)
 
 This Project is basically a Application of our Project [Aatmanirbhar Sanchar](https://github.com/BE-Project-VESIT-AatmaSanchar/Aatmanirbhar-Sanchar)
 
